@@ -10,12 +10,6 @@ Welcome to my GitHub profile! I'm a passionate learner of programming, eager to 
 - 💬 Ask me about anything related to my projects or programming in general.
 - 📫 How to reach me: [click here](https://abhimauryag.github.io/Contact-form/)
 
-## Learning Journey
-
-I believe in the power of continuous learning, and this GitHub profile serves as a documentation of my programming journey. I am dedicated to becoming a proficient developer and will share my progress through the following:
-
-- **[Learning Repository](https://github.com/your_username/learning-journey):** This repository is a log of my learning progress. I will regularly update it with the resources I'm using, the topics I'm studying, and my achievements along the way.
-
 ## Highlighted Projects
 
 These are some of my favorite projects that I've worked on:
